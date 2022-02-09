@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm coder-pooja</h1>
 <h3 align="center">A passionate developer in python</h3>
 
+<img align="right" width="400" src="https://img.freepik.com/free-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg?size=626&ext=jpg">
+
 - 🔭 I’m currently working on **Python Data Science**
 
 - 🌱 I’m currently learning **Advance Analytical skills**
